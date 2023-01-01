@@ -15,7 +15,7 @@
 
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
 
-- <a href ="#about"> 📙 overview</a>
+- <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
 - <a href ="#Path"> 📷 Path of the program</a>
 - <a href ="#Video">  📽 GIF Demo</a>
@@ -115,9 +115,9 @@ game
    <tr>
      <td align="">
      <p>If you choose chatting
-     <a href ="#chatting"> ckick here</a>.</p>
+     <a href ="#chatting"> Click here</a>.</p>
    <p>If you choose game
-     <a href ="#game"> ckick here</a>.</p> 
+     <a href ="#game"> Click here</a>.</p> 
     </td>
   </tr>
   </table>
@@ -126,8 +126,8 @@ game
 <table>
   <a id="chatting"></a> </a>
   <tr>
-     <td align="center">3. Press enter to write after writting press enter again to send</td>
-      <td align="center">3. Press enter to write after writting press enter again to send</td>
+     <td align="center">3. Press enter to write. After writing press enter again to send</td>
+      <td align="center">3. Press enter to write. After writing press enter again to send</td>
   </tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177057012-daa136c4-06a6-4e77-b1ea-507421f511f0.png" width="500px;"/></td>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177057032-c36001f7-5589-444a-b4c9-2d4ed2288f0e.png" width="500px;"/></td>
@@ -138,8 +138,8 @@ game
  ### <img align= "center" width=50px height=50px src="https://media0.giphy.com/media/ZZlFeURejAu7o0esKN/giphy.gif?cid=ecf05e47o6pup8tjgb8lpuqopr4x8e8cdyhvz9fggbakyryj&rid=giphy.gif&ct=s"> Game
   <a id="game"> </a>
   <tr>
-     <td align="center">3. Choose level 1 or 2 (if you the sender)</td>
-      <td align="center">3. Choose level  1 or 2 (if you the sender)</td>
+     <td align="center">3. Choose level 1 or 2 (if you're the sender)</td>
+      <td align="center">3. Choose level  1 or 2 (if you're the sender)</td>
   </tr>
      <td align="center" ><img src="https://user-images.githubusercontent.com/71986226/177057804-1a081408-e25f-4685-a050-9d499baa9359.png" width="500px;"/></td>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177057804-1a081408-e25f-4685-a050-9d499baa9359.png" width="500px;"/></td>
@@ -153,9 +153,9 @@ game
   </tr>
   <tr>
      <td align="">
-     <p>If you choose level1
+     <p>If you chose Level 1
      <a href ="#level1"> ckick here</a>.</p>
-   <p>If you choose level2
+   <p>If you chose Level 2
      <a href ="#level2"> ckick here</a>.</p> 
     </td>
   </tr>
@@ -165,7 +165,7 @@ game
   <table id="level1">
   <tr>
      <td align="center">5. Start the game</td>
-      <td align="center">5.  Start the game</td>
+      <td align="center">5. Start the game</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177057900-c503b0e0-a567-4aec-87ff-c110f2825a0e.png" width="500px;"/></td>
@@ -176,23 +176,23 @@ game
  ### Level 2
   <table id="level2">
   <tr>
-     <td align="center">5. Put initial value for register</td>
-      <td align="center">5. Put initial value for register</td>
+     <td align="center">5. Put initial values for registers</td>
+      <td align="center">5. Put initial values for registers</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177058305-629ea542-59cd-49c9-8229-0ffe4bc10c15.png" width="500px;"/></td>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177058308-8ff7e6cc-910a-439d-a68b-de5147aa2b75.png" width="500px;"/></td>
   </tr>
   <tr>
-     <td align="center">6. Choose your oppment's target</td>
-      <td align="center">6.  Choose your oppment's target</td>
+     <td align="center">6. Choose your opponent's target</td>
+      <td align="center">6. Choose your opponent's target</td>
   </tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177058391-5d652faf-1fd4-42ca-802c-69f9b6014701.png" width="500px;"/></td>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177058391-5d652faf-1fd4-42ca-802c-69f9b6014701.png" width="500px;"/></td>
   </tr>
   <tr>
      <td align="center">7. Start the game</td>
-      <td align="center">7.  Start the game</td>
+      <td align="center">7. Start the game</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177060391-6359d810-029c-4744-8ec0-7c20759e6c26.png" width="500px;"/></td>
@@ -202,7 +202,7 @@ game
 <table>
   <tr>
      <td align="center"> End game</td>
-      <td align="center">  End game</td>
+      <td align="center"> End game</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/177058423-38daca3d-3650-4c20-9926-dba802f4c330.png" width="500px;"/></td>
